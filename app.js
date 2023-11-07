@@ -38,7 +38,7 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-app.listen('4455',function(){
+app.listen('1234',function(){
 console.log("4455 portunda çalişiiriimm");
 
 });
