@@ -39,7 +39,7 @@ app.use(function(err, req, res, next) {
 });
 
 app.listen('1234',function(){
-console.log("4455 portunda çalişiiriimm");
+console.log("1234 portunda çalişiiriimm");
 
 });
 
